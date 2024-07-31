@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAm6PAMUjp8=",
+  "success": true,
+  "projectFilePath": "D:\\chuong-2-C#.NET\\ConsoleApp-Chuong02\\ConsoleApp-Chuong02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
