@@ -1,0 +1,59 @@
+Câu hỏi
+1. Nền tảng .NET Framework là gì?
+ - Là môi trường đa ngôn ngữ để xây dựng, triển khai và chạy các ứng dụng do hãng MS phát triển.
+ - Cho phép phát triển các ứng dựng chạy trên nhiều môi trường khác nhau như thiết bị di động, máy tính.
+
+2. Các công nghệ cốt lõi sử dụng trong .NET Framework là gì?
+    - Microsoft Intermediate Language
+    - Common Language Runtime
+
+3. Liệt kê ra các thành phần của .NET Framework
+    - Các ngôn ngữ lập trình C#,F#,Visual Basic
+    - Thư viện các lớp(Framework Class Library - FCL)
+    - The Common Language Runtime (CLR) 
+
+4. .NET Framework hỗ trợ ngôn ngữ lập trình C/C++?
+    -Mặc dù .NET Framework không trực tiếp hỗ trợ C/C++ như cách 
+    nó hỗ trợ C#, VB.NET hay F#, ta vẫn có thể sử dụng C++ thông
+    qua C++/CLI để tận dụng các tính năng của .NET Framework.
+
+5. Có thể dùng ngôn ngữ C# viết các chương trình chạy trên các 
+thiết bị di động?
+    - Có thể sử dụng C# để viết các ứng dụng di động bằng cách 
+    sử dụng các công cụ và framework như Xamarin và .NET MAUI.
+
+6. Mục đích của Common Language Runtime là gì?
+    - CLR cung cấp một môi trường runtime mạnh mẽ và an toàn cho
+    việc phát triển và thực thi các ứng dụng .NET, với các tính
+    năng quản lý bộ nhớ, xử lý ngoại lệ, bảo mật, hỗ trợ đa ngôn
+    ngữ, quản lý vòng đời ứng dụng, biên dịch JIT, reflection
+    và hỗ trợ đa luồng. Những tính năng này giúp tăng cường
+    hiệu suất, bảo mật và độ tin cậy của các ứng dụng .NET. 
+
+7. ____________thực hiện các chức năng quản lý bộ nhớ, xử lý lỗi,
+ dọn dẹp bộ nhớ?
+    - Common Language Runtime (CLR)
+
+8. ____________cung cấp một tập các lớp để làm việc với cơ sở 
+dữ liệu?
+    - Entity Framework
+    - ADO.NET
+    - Dapper
+
+9. ____________cung cấp một tập các lớp để thiết kế các Form cho
+các trang web giống như Form HMTL?
+    - ASP.NET Web Forms
+    - ASP.NET MVC
+    - Razor Pages
+
+10. ___________được sử dụng như là công cụ để phát triển các ứng
+dụng cho máy để bàn, dịch vụ web, ứng dụng mobile ứng dụng web
+có hiệu suất cao?
+    -Visual Studio
+
+11. Trong một ứng dụng có thể có bao nhiêu phương thức Main?
+    - Có thể có nhiều phương thức Main nhưng chỉ có một phương thức
+    Main duy nhất được chỉ định là điểm bắt đầu của chương trình
+
+12. Chương trình C# sẽ bắt đầu thực thi từ đâu ? 
+    -Bắt đầu từ phương thức Main
